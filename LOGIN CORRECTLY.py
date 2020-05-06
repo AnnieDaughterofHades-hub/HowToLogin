@@ -24,7 +24,7 @@ def register():
     global screen1
     screen1 = Toplevel(screen)
     screen1.title("Register")
-    screen1.geometry("300x250")
+    screen1.geometry("301x250")
     
     global username
     global password
