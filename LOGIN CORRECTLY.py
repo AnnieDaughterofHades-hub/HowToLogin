@@ -4,9 +4,7 @@ def login_verify():
     
     username1 = username_verify.get()
     password1 = password_verify.get()
-    usename
-
-
+    
 
 def register_user():
     username_info = username.get()
